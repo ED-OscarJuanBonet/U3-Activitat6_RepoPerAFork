@@ -64,6 +64,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 #### AlumneFila2 PC4:
 
+Óscar Juan Bonet.
+En este apartat modificat el fitxer .java i en la fila que hem correspon he añadit el meu nom i una felicitacio per al nou any.
 
 #### AlumneFila2 PC5:
 
