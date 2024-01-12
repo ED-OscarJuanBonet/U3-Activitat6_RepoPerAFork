@@ -64,6 +64,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 #### AlumneFila2 PC4:
 
+Óscar Juan Bonet.
+En este apartat de l'activitat ja he modificat el arxiu de salutació amb els meus datos i la meua propia felicitació
 
 #### AlumneFila2 PC5:
 
