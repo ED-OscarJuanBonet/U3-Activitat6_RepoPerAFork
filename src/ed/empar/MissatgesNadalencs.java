@@ -139,7 +139,9 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC4() {
+		System.out.println("------------------------------------------------");
 		System.out.println("Hola soc Óscar i et desitge un feliç any nou!!!!");
+		System.out.println("------------------------------------------------");
 	}
 
 	private static void AlumneFila2PC5() {
